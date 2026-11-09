@@ -25,6 +25,7 @@
             <span class="icono">🌤️</span>
             Clima
         </a>
+        <p> naturalez y paisaje </p>
     </main>
 </body>
 </html>
