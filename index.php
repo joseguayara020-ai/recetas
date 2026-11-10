@@ -25,11 +25,11 @@
             <span class="icono">🌤️</span>
             Clima
         </a>
-        <p> naturalez y paisaje </p>
         <p> el cielo es bello </p>
         <p> el sol es brillante </p>
         <p> la luna es misteriosa </p>
         <p> las estrellas son hermosas </p>
+        <p> la noche es tranquila </p>
     </main>
 </body>
 </html>
